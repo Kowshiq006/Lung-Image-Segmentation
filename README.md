@@ -65,8 +65,25 @@ The methodology followed these steps:
 - Loss decreased to **29.3%**.
 
 #### Training Performance
-![Accuracy over Epochs](images/accuracy_plot.png)
-![Loss over Epochs](images/loss_plot.png)
+<p align="center">
+  <img src="images/Accuracy-over-epochs.jpg" alt="Accuracy over Epochs">
+  <br><em>Accuracy over epochs</em>
+</p>
+
+<p align="center">
+  <img src="images/Loss-over-epochs.jpg" alt="Loss over Epochs">
+  <br><em>Loss over epochs</em>
+</p>
+
+<p align="center">
+  <img src="images/Validation-accuracy-over-epochs.jpg" alt="Validation Accuracy Over Epochs">
+  <br><em>Validation Accuracy over epochs</em>
+</p>
+
+<p align="center">
+  <img src="images/Validation-loss-over-epochs.jpg" alt="Validation Loss Over Epochs">
+  <br><em>Validation Loss over epochs</em>
+</p>
 
 #### Validation Metrics
 - **Validation Accuracy**: ~72%
