@@ -99,11 +99,11 @@ This study implemented UNet++ for lung image segmentation and demonstrated its p
 ---
 
 ## References
-1. Zhou, Z., Siddiquee, M. M. R., Tajbakhsh, N., & Liang, J. (2018). *UNet++: A nested U-Net architecture for medical image segmentation.*
-2. WHO (2018). *The top 10 causes of death.*
-3. Naik, A., & Edla, D. R. (2021). *Lung nodule classification using deep learning.*
-4. Li, X., et al. (2018). *H-DenseUNet: Hybrid densely connected U-Net for medical image segmentation.*
-5. Ronneberger, O., et al. (2015). *U-Net: Convolutional networks for biomedical image segmentation.*
+1. Zhou, Z., Siddiquee, M. M. R., Tajbakhsh, N., & Liang, J. (2018). *UNet++: A nested U-Net architecture for medical image segmentation.* [Link](https://arxiv.org/abs/1807.10165)
+2. WHO (2018). *The top 10 causes of death.* [Link](https://www.who.int/news-room/fact-sheets/detail/the-top-10-causes-of-death)
+3. Naik, A., Edla, D.R. Lung Nodule Classification on Computed Tomography Images Using Deep Learning (2021).* [Link]([https://link.springer.com/article/10.1007/s11277-020-07762-1](https://doi.org/10.1007/s11277-020-07732-1))
+4. Li, X., et al. (2018). *H-DenseUNet: Hybrid densely connected U-Net for medical image segmentation.* [Link](https://ieeexplore.ieee.org/document/8419855)
+5. Ronneberger, O., et al. (2015). *U-Net: Convolutional networks for biomedical image segmentation.* [Link](https://arxiv.org/abs/1505.04597)
 
 ---
 
